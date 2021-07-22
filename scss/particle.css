@@ -1,10 +1,11 @@
-/* Config */
+/* Config 
 h1 {
   color: #FFFFFF;
   text-shadow: #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, 5px 1px 6px rgba(206, 89, 55, 0);
   letter-spacing: 8pt;
   text-transform: uppercase;
 }
+/*
 
 /* mixins */
 /* Styles */
@@ -113,10 +114,24 @@ html, body {
 /*glow*/
 @keyframes neon1 {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+    text-shadow: 0 0 10px #fff,
+ 0 0 20px #fff,
+ 0 0 30px #fff,
+ 0 0 40px #FF1177,
+ 0 0 70px #FF1177,
+ 0 0 80px #FF1177,
+ 0 0 100px #FF1177,
+ 0 0 150px #FF1177;
   }
   to {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+    text-shadow: 0 0 5px #fff,
+ 0 0 10px #fff,
+ 0 0 15px #fff,
+ 0 0 20px #FF1177,
+ 0 0 35px #FF1177,
+ 0 0 40px #FF1177,
+ 0 0 50px #FF1177,
+ 0 0 75px #FF1177;
   }
 }
 /*# sourceMappingURL=particle.css.map */
