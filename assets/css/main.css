@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
 ol, ul {
 	list-style: none;
 }
@@ -1439,7 +1446,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table, blockquote, form {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 
 /* Table */
